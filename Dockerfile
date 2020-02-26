@@ -1,6 +1,6 @@
 FROM alpine:latest 
 
-MAINTAINER Joby Pooppillikudiyil <joby.pooppillikudiyil@nttdata.com>
+MAINTAINER Joby Pooppillikudiyil
 
 RUN apk update 
 
